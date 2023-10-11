@@ -5,7 +5,7 @@ This is a straightforward keylogger crafted with the Python Keyboard library Tha
 This keyloggers are simple and barebones, yet they work like a charm! Feel free to fork and enhance it if you wish. 🍴✨
 
 
-$${\color{red}WARNING}$$
+$${\color{red}⚠️WARNING⚠️}$$
 <!-- This text should be displayed in red -->
 
 **This project is intended for educational and research purposes only.**
