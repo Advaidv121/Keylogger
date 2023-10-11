@@ -25,6 +25,7 @@ Kickstart the keylogger by running
 python keylogger.py
 ```
 It'll start logging your keystrokes immediately! ⌨️📝
+And starts logging the log files into the **ftp** server based on the desired time interval🛜
 
 ## Potential Uses 💡
 
