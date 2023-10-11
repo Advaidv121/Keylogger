@@ -1,4 +1,4 @@
-"# A Simple Keylogger 🖥️🔍
+## A Simple Keylogger 🖥️🔍
 
 This is a straightforward keylogger crafted with the Python Keyboard library. It diligently records keystrokes and transmits the file to a remote FTP server on the attacker's machine. 
 
@@ -20,7 +20,11 @@ pip install -r requirements.txt
 
 ## Execution 🏃‍♂️
 
-Kickstart the keylogger by running `python keylogger.py`. It'll start logging your keystrokes immediately! ⌨️📝
+Kickstart the keylogger by running 
+```
+python keylogger.py
+```
+It'll start logging your keystrokes immediately! ⌨️📝
 
 ## Potential Uses 💡
 
