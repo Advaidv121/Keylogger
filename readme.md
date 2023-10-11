@@ -1,6 +1,6 @@
-## A Simple Keylogger 🖥️🔍
+## Keylogger 🖥️🔍
 
-This is a straightforward keylogger crafted with the Python Keyboard library. It diligently records keystrokes and transmits the file to a remote FTP server on the attacker's machine. 
+This is a straightforward keylogger crafted with the Python Keyboard library That uploads the log file to a remote **FTP** server .
 
 These keyloggers are simple and barebones, yet they work like a charm! Feel free to fork and enhance it if you wish. 🍴✨
 
