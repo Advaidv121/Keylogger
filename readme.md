@@ -5,12 +5,13 @@ This is a straightforward keylogger crafted with the Python Keyboard library Tha
 This keyloggers are simple and barebones, yet they work like a charm! Feel free to fork and enhance it if you wish. 🍴✨
 
 
-$${\color{red}⚠️WARNING⚠️}$$
-<!-- This text should be displayed in red -->
+
+## Warning ⚠️☠️
 
 **This project is intended for educational and research purposes only.**
 
 Please use this keylogger responsibly and only on devices and systems for which you have explicit authorization.
+
 The author(s) of this project are not responsible for any misuse or illegal activities involving this software.
 
 
