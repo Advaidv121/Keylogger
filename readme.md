@@ -32,11 +32,11 @@ $ pip install -r requirements.txt
 
 On line number **36** add the necessary ftp address for the log file to be uploaded into the ftp server
 ```
-36 ftp=FTP('xx.xxx.xx.xx') #replace 'xx.xxx.xx.xx'
+36. ftp=FTP('xx.xxx.xx.xx') #replace 'xx.xxx.xx.xx'
 ```
 On line number **37** add the necessary username and password to login into the ftp server for upload
 ```
-37 ftp.login('username','password')  #replace 'username' 'password'
+37. ftp.login('username','password')  #replace 'username' 'password'
 ```
 
 ## Execution 🏃‍♂️
